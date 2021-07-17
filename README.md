@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jeremiah, but you can call be Jerry! 👋
 
 <!--
 **jerrykingbob/jerrykingbob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
