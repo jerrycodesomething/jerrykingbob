@@ -1,4 +1,6 @@
 ### Hi there, I'm Jeremiah, but you can call be Jerry! 👋
+![Banner](https://imgur.com/a/IODeJI5)
+
 
 I'm a final-year computer science undergraduate at the University of Malaya
 
