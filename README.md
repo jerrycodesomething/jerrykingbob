@@ -22,7 +22,7 @@ I'm a final-year computer science undergraduate at the University of Malaya
 None yet :'( 
 
 #### IDEs and Editors
-![NetBeans](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=cyan&logo=Apache+NetBeans+IDE&logoColor=white&label=)
+![NetBeans](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=cyan&logo=Apache+NetBeans+IDE&logoColor=red&label=)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)<br>
