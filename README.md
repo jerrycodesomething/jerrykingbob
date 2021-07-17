@@ -1,8 +1,8 @@
-# Hi there, I'm Jeremiah, but you can call be Jerry! 👋
+# Hi there, I'm Jeremiah!👋
 ![Banner](https://i.imgur.com/8pLGB4z.png)
 
 
-I'm a final-year computer science undergraduate at the University of Malaya
+I'm a final-year computer science undergraduate at the University of Malaya who specializes in computer systems and networking. If you noticed my GitHub handle, some people call me Jerry, so if "Jeremiah" is a bit of a mouthful for you, feel free to just call me Jerry (but it would make my day if you do address me as Jeremiah...without butchering the pronunciation 😓). Here, you'll see 
 
 
 ### You can reach out to me through these platforms 👇
