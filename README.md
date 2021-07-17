@@ -47,6 +47,6 @@ None yet :'(
 
 
 ### GitHub Statistics
-[![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerrykingbobtheme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerrykingbob&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
