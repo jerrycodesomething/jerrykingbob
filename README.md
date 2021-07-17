@@ -1,7 +1,7 @@
 ### Hi there, I'm Jeremiah, but you can call be Jerry! 👋
 
 
-###Social Links
+### Social Links
 
 ### Skills
 
