@@ -21,7 +21,7 @@ I'm a final-year computer science undergraduate at the University of Malaya
 #### Frameworks
 
 #### IDEs and Editors
-![NetBeans](https://camo.githubusercontent.com/9492e5fbb74a353345937f205a9016d5c4f3beb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368655f4e65744265616e735f4944452532302d2532333142364143362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4170616368652532304e65744265616e73253230494445266c6f676f436f6c6f723d7768697465)
+![NetBeans](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=1B6AC6&logo=Apache+NetBeans+IDE&logoColor=FFFFFF&label=)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)<br>
