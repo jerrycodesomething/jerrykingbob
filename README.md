@@ -14,7 +14,7 @@ I'm a final-year computer science undergraduate at the University of Malaya
 
 #### Frameworks
 
-#### IDEs and f dje 
+#### IDEs and Editors
 
 #### Databases
 
