@@ -4,7 +4,7 @@
 Welcome to my GitHub page where you'll gain a bit of insight into my journey as a developer and core developer competencies. I've decided to use this platform to consolidate and curate all my public projects, uni assignments, and collaborative works to help you gauge my aptitude as a dev. 
 
 ### You can reach out to me through these platforms 👇
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/jeremiah-dudun-henry/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
