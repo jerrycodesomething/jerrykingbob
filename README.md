@@ -19,6 +19,7 @@ I'm a final-year computer science undergraduate at the University of Malaya
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Frameworks
+None yet :'( 
 
 #### IDEs and Editors
 ![NetBeans](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=cyan&logo=Apache+NetBeans+IDE&logoColor=800000&label=)
