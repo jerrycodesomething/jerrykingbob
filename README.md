@@ -5,6 +5,7 @@ Welcome to my GitHub page where you'll gain a bit of insight into my journey as 
 
 
 ### Social Links and Websites 👇
+Here are a few quick links if you'd like to get in touch with me...
 <a href="https://www.linkedin.com/in/jeremiah-dudun-henry/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:jeremiah.dudun99@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
