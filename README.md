@@ -30,8 +30,9 @@ I'm a final-year computer science undergraduate at the University of Malaya
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 #### Databases
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerrykingbob)](https://github.com/anuraghazra/github-readme-stats)
