@@ -1,4 +1,4 @@
-### Hi there, I'm Jeremiah, but you can call be Jerry! 👋
+# Hi there, I'm Jeremiah, but you can call be Jerry! 👋
 ![Banner](https://i.imgur.com/8pLGB4z.png)
 
 
