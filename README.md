@@ -1,11 +1,7 @@
+# Hi there, I'm Jeremiah!👋
 ![Banner](https://i.imgur.com/8pLGB4z.png)
 
-# Hi there, I'm Jeremiah!👋
-
-I'm a final-year computer science undergraduate at the University of Malaya. My core specialization is in computer systems and networking but I do dabble in a bit of development as well. If you noticed my GitHub handle, Jerry is kinda the nickname I grew up with, so if "Jeremiah" is a bit of a mouthful for you, feel free to just call me Jerry (but it would make my day if you do address me as Jeremiah...without butchering the pronunciation that is- you'd be surprised 😓). To save you from a lenghty bio, here's a bulleted list 
-
-
-
+Welcome to my GitHub page where you'll gain a bit of insight into my journey as a developer and core developer competencies. I've decided to use this platform to consolidate and curate all my public projects, uni assignments, and collaborative works to help you gauge my aptitude as a dev. 
 
 ### You can reach out to me through these platforms 👇
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -23,6 +19,11 @@ I'm a final-year computer science undergraduate at the University of Malaya. My 
 
 #### Frameworks:
 None yet :'( 
+
+#### Cloud Platforms
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white")
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white")
+
 
 #### IDEs and Editors:
 ![NetBeans](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=cyan&logo=Apache+NetBeans+IDE&logoColor=red&label=)
