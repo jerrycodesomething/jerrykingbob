@@ -1,5 +1,5 @@
 # Hi there, I'm Jeremiah!👋
-![Banner](https://i.imgur.com/8pLGB4z.png)
+![Banner](https://imgur.com/a/m8QrP1I)
 
 Welcome to my GitHub page where you'll gain a bit of insight into my journey as a developer and core developer competencies. I've decided to use this platform to focus solely on my activities as a developer; consolidating and curating all my public projects, uni assignments, and dev resources. ✌️ 
 
