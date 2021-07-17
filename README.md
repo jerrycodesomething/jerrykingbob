@@ -1,5 +1,5 @@
 ### Hi there, I'm Jeremiah, but you can call be Jerry! 👋
-
+![Banner](https://www.linkedin.com/in/jeremiah-dudun-henry/detail/background-image/)
 I'm a final-year computer science undergraduate at the University of Malaya
 
 
