@@ -3,7 +3,7 @@
 I'm a final-year computer science undergraduate at the University of Malaya
 
 
-### Social Links & Websites
+### You can reach out to me through these platforms 👇
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
