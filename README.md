@@ -1,7 +1,7 @@
 # Hi there, I'm Jeremiah!👋
 ![Banner](https://i.imgur.com/8pLGB4z.png)
 
-Welcome to my GitHub page where you'll gain a bit of insight into my journey as a developer and core developer competencies. I've decided to use this platform to consolidate and curate all my public projects, uni assignments, and collaborative works to help you gauge my aptitude as a dev. 
+Welcome to my GitHub page where you'll gain a bit of insight into my journey as a developer and core developer competencies. I've decided to use this platform to consolidate and curate all my public projects, uni assignments, and collaborative dev works, so 
 
 ### You can reach out to me through these platforms 👇
 <a href="https://www.linkedin.com/in/jeremiah-dudun-henry/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -44,7 +44,8 @@ Welcome to my GitHub page where you'll gain a bit of insight into my journey as 
 <br>
 ### GitHub Statistics
 [![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerrykingbob&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykingbob&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykingbob&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
