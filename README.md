@@ -1,6 +1,6 @@
-# Hi there, I'm Jeremiah!👋
 ![Banner](https://i.imgur.com/8pLGB4z.png)
 
+# Hi there, I'm Jeremiah!👋
 
 I'm a final-year computer science undergraduate at the University of Malaya. My core specialization is in computer systems and networking but I do dabble in a bit of development as well. If you noticed my GitHub handle, Jerry is kinda the nickname I grew up with, so if "Jeremiah" is a bit of a mouthful for you, feel free to just call me Jerry (but it would make my day if you do address me as Jeremiah...without butchering the pronunciation that is- you'd be surprised 😓). To save you from a lenghty bio, here's a bulleted list 
 
