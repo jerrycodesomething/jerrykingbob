@@ -47,8 +47,8 @@ None yet :'(
 
 
 ### GitHub Statistics
-[![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerrykingbob&theme=radical&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykingbob&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerrykingbob&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykingbob&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
