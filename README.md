@@ -1,7 +1,7 @@
 # Hi there, I'm Jeremiah!👋
 ![Banner](https://i.imgur.com/GoAveot.png)
 
-Welcome to my GitHub page where you'll gain a bit of insight into my journey as a developer and core developer competencies. I've decided to use this platform to focus solely on my activities as a developer; consolidating and curating all my public projects, uni assignments, and dev resources. ✌️ 
+Welcome to my GitHub page where you'll gain a bit of insight into my journey as a developer and core developer competencies. I've decided to use this platform to focus solely on my activities as a developer; consolidating and curating all my public projects, uni assignments, and dev resources for those of you who are intereted. ✌️ 
 
 ## Social Links and Websites
 <a href="https://www.linkedin.com/in/jeremiah-dudun-henry/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
