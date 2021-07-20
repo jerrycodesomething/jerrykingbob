@@ -49,7 +49,7 @@ Welcome to my GitHub page where you'll gain a bit of insight into my journey as 
 ## GitHub Statistics
 [![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerrykingbob&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrykingbob&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
