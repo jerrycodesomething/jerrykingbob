@@ -8,7 +8,7 @@ Welcome to my GitHub page where you'll gain a bit of insight into my journey as 
 <a href="mailto:jeremiah.dudun99@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <br>
 <br>
-## Skills
+## Technical Skills
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
