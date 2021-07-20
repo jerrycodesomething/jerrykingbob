@@ -1,4 +1,4 @@
-# Hi there, I'm Jeremiah!👋
+# Hi there, I'm Jeremiah!👋 
 ![Banner](https://i.imgur.com/GoAveot.png)
 
 Welcome to my GitHub page where you'll gain a bit of insight into my journey as a developer and core developer competencies. I've decided to use this platform to focus solely on my activities as a developer; consolidating and curating all my OPEN-SOURCE projects, university assignments, and dev resources for those of you who are intereted. ✌️ 
