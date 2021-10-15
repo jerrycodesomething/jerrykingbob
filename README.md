@@ -1,5 +1,5 @@
 # Hi there, I'm Jeremiah!👋
-![Banner](https://raw.githubusercontent.com/jerrykingbob/jerrykingbob/main/Banner1.png)
+![Banner](https://raw.githubusercontent.com/jerrykingbob/jerrykingbob/main/Banner2.png)
 
 Welcome to my GitHub page where you'll gain a bit of insight into my journey as a developer and core developer competencies. I've decided to use this platform to focus solely on my activities as a developer; consolidating and curating all my OPEN-SOURCE projects, university assignments, and dev resources for those of you who are intereted. ✌️ 
 
