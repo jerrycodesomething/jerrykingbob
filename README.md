@@ -18,7 +18,8 @@ Welcome to my GitHub page where you'll gain a bit of insight into my journey as 
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NetBeans](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### IDEs and Editors:
 ![NetBeans](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=cyan&logo=Apache+NetBeans+IDE&logoColor=red&label=)
